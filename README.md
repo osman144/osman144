@@ -1,4 +1,5 @@
 ### Hi there 👋
+![programming](https://user-images.githubusercontent.com/25594064/139509941-9d544eeb-e112-4901-8edc-68c72b930b4e.gif)
 
 <!--
 **osman144/osman144** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
