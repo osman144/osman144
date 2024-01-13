@@ -1,6 +1,6 @@
 ### welcome 👋
 
-## about me
+### about me
 - passionate about building things ⚒️
 - an open-source enthusiast 📂
 - automating processes 🚀
